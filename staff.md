@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Staff
-description: A listing of all the course staff members.
+description: A listing of all the program staff members and Volunteers.
 ---
 
 # Staff
 
-Our dedicated staff at the DLBC Data Science Academy are here to support your learning journey and provide you with the guidance and resources you need to succeed.
+Our dedicated staff and volunteers at the DLBC Data Science Academy are here to support your learning journey and provide you with the guidance and resources you need to succeed.
 
 ## Instructors
 

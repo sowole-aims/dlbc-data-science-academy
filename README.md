@@ -32,7 +32,7 @@ In today's data-driven world, data science has become a critical skill for solvi
 
 To get started with the DLBC Data Science Academy, follow these steps:
 
-1. Visit the [DLBC Data Science Academy GitHub Page](https://github.com/sowole-aims/DLBC-Data-Science-Academy).
+1. Visit the [DLBC Abeokuta Data Science Academy GitHub Page](https://github.com/sowole-aims/dlbc-abk-data-science-academy).
 
 2. Explore the various resources, courses, and projects available.
 
@@ -44,13 +44,15 @@ To get started with the DLBC Data Science Academy, follow these steps:
 
 The academy offers a wide range of courses to cater to various skill levels and interests within the field of data science. Whether you're a beginner looking to get started or aiming to sharpen your skills, we have something for you. Some of our courses include:
 
-- Introduction to Data Science
+- Introduction to Data Science and Artificial Intelligence
+- Data Analytics with Excel and Power BI
 - Data Analysis with Python
 - Machine Learning Fundamentals
 - Deep Learning and Neural Networks
 - Data Visualization with Matplotlib and Seaborn
 - SQL for Data Science
-- Big Data and Hadoop
+- Natural Language Processing
+- Generative AI
 
 ## Projects
 
@@ -59,12 +61,12 @@ Our projects are designed to provide practical, hands-on experience in applying 
 - Data Analytics
 - Predictive Analytics
 - Natural Language Processing
+- Generative AI
 - Computer Vision
 - Recommender Systems
 - Time Series Analysis
 - Data Science for Social Good
 
-Feel free to contribute to our projects!
 
 ## Resources
 
@@ -77,7 +79,7 @@ We understand that learning data science can be challenging, which is why we've 
 
 ## Contribute
 
-We welcome contributions from anyone interested in enhancing the DLBC Data Science Academy. If you have suggestions, want to contribute tutorials, or create new projects, please contact us.
+We welcome contributions from anyone interested in enhancing the DLBC Data Science Academy. If you have suggestions, want to contribute tutorials, support financially or create new projects, please contact us.
 
 ## Contact
 

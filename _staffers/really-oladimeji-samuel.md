@@ -1,5 +1,5 @@
 ---
-name: Really Oladimeji Samuel
+name: More Teaching Assistance
 role: Teaching Assistant
 email: oladimejisamuel003@gmail.com
 website: https://www.linkedin.com/in/oladimeji-samuel-sowole-6b93a798/
