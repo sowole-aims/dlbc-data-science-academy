@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Home:
-    - 'https://sowole-aims.github.io/DLBC-DS-Academy/'
+    - 'https://sowole-aims.github.io/dlbc-data-science-academy/'
   About:
-    - 'https://sowole-aims.github.io/DLBC-DS-Academy/about/'
+    - 'https://sowole-aims.github.io/dlbc-data-science-academy/about/'
 footer_content:
 
 # Collections for website data
