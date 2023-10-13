@@ -2,6 +2,8 @@
 title: Introduction to Data Science and Artificial Intelligence
 ---
 
+Oct 14
+
 Mod 1
 : **Introduction to Data Science and AI**{: .label .label-purple }
   : Welcome! In this first module, we will provide an overview of what data science and artificial intelligence are, their importance, and the topics we will cover in this module.

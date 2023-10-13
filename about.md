@@ -22,9 +22,9 @@ Welcome to the DLBC Data Science Academy! This page provides essential informati
 
 ## Lectures
 
-- **Schedule:** Lectures will be held every [day and time] via [platform]. Please consult the course calendar for specific dates and times.
-- **Format:** Lectures will be delivered through a combination of live presentations, video recordings, and interactive discussions.
-- **Attendance:** Attendance is highly encouraged, but recordings of all lectures will be available for those who cannot attend live.
+- **Schedule:** Lectures will be held every fortnight. We will also set up peer-to-peer group studies (to be determined). Please consult the course calendar for specific dates and times.
+- **Format:** Lectures will be delivered through a combination of presentations, videos, and interactive discussions.
+- **Attendance:** Attendance is highly encouraged, but resources of all lectures will be made available on the course website for those who cannot attend and can self learn.
 
 ## Resources
 
@@ -65,6 +65,4 @@ We are excited to embark on this data science journey with you and look forward 
 
 Sincerely,
 
-[Oladimeji Samuel Sowole]
-[Course Instructor]
-DLBC Data Science Academy
+DLBC Abeokuta Data Science Academy Team
