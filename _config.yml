@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DLBC Data Science Academy
+title: DLBC DS Academy
 tagline: Data Science Academy for young minds!
 description: Course website developed for the DLBC Abeokuta Data Science Academy
 author: DLBC Abeokuta
@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Home:
     - 'https://sowole-aims.github.io/dlbc-data-science-academy/'
-  About:
-    - 'https://sowole-aims.github.io/dlbc-data-science-academy/about/'
+  Academy GitHub Page:
+    - 'https://github.com/dlbc-ds-academy/'
 footer_content:
 
 # Collections for website data
