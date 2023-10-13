@@ -53,9 +53,6 @@ Assignments are a crucial part of the learning process:
 
 Late submissions may be subject to a deduction in points, with the extent of the deduction depending on the delay. However, we understand that unforeseen circumstances may arise, so please communicate with us in advance if you anticipate a late submission.
 
-### Academic Integrity
-
-We uphold the highest standards of academic integrity. Plagiarism or any form of cheating will not be tolerated and may result in disciplinary action. Make sure to cite your sources properly and collaborate with classmates within the guidelines set for group assignments.
 
 ## Contact
 
