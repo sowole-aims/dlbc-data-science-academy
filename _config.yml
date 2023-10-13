@@ -17,7 +17,7 @@ title: DLBC Data Science Academy
 tagline: Data Science Academy for young minds!
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: DLBC Abeokuta
-baseurl: '/DLBC-DS-Academy' # the subpath of your site, e.g. /blog
+baseurl: '/dlbc-data-science-academy' # the subpath of your site, e.g. /blog
 url: 'https://sowole-aims.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
