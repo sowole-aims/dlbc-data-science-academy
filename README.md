@@ -8,11 +8,11 @@ seo:
   name: DLSO Data Science Academy
 ---
 
-# DLBC Data Science Academy
+# DLSO Data Science Academy
 
 ## Overview
 
-The DLBC Data Science Academy is a platform designed to empower young people in the DLBC (Deeper Life Bible Church), Abeokuta, with the skills and knowledge they need to excel in the field of data science. This Website serves as the hub for all resources, tutorials, and information related to the academy.
+The DLSO Data Science Academy is a platform designed to empower young people in the DLBC (Deeper Life Bible Church), Abeokuta, with the skills and knowledge they need to excel in the field of data science. This Website serves as the hub for all resources, tutorials, and information related to the academy.
 
 ### Table of Contents
 
