@@ -32,7 +32,7 @@ In today's data-driven world, data science has become a critical skill for solvi
 
 To get started with the DLBC Data Science Academy, follow these steps:
 
-1. Visit the [DLBC Abeokuta Data Science Academy GitHub Page](https://github.com/sowole-aims/dlbc-abk-data-science-academy).
+1. Visit the [DLBC Abeokuta Data Science Academy GitHub Page](https://github.com/dlbc-ds-academy/).
 
 2. Explore the various resources, courses, and projects available.
 
