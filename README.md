@@ -1,11 +1,11 @@
 ---
 layout: home
-title: DLBC Data Science Academy
+title: DLSO Data Science Academy
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: DLBC Data Science Academy
+  name: DLSO Data Science Academy
 ---
 
 # DLBC Data Science Academy
@@ -32,7 +32,7 @@ In today's data-driven world, data science has become a critical skill for solvi
 
 To get started with the DLBC Data Science Academy, follow these steps:
 
-1. Visit the [DLBC Abeokuta Data Science Academy GitHub Page](https://github.com/dlbc-ds-academy/).
+1. Visit the [DLSO Abeokuta Data Science Academy GitHub Page](https://github.com/dlbc-ds-academy/).
 
 2. Explore the various resources, courses, and projects available.
 

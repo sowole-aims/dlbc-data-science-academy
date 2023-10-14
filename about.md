@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-Welcome to the DLBC Data Science Academy! This page provides essential information about our course policies, including details about lectures, resources, exercises, and assignments.
+Welcome to the DLSO Data Science Academy! This page provides essential information about our course policies, including details about lectures, resources, exercises, and assignments.
 
 ## Lectures
 
@@ -62,4 +62,4 @@ We are excited to embark on this data science journey with you and look forward 
 
 Sincerely,
 
-DLBC Abeokuta Data Science Academy Team
+DLSO Abeokuta Data Science Academy Team
