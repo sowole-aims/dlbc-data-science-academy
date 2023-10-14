@@ -30,7 +30,7 @@ In today's data-driven world, data science has become a critical skill for solvi
 
 ## Getting Started
 
-To get started with the DLBC Data Science Academy, follow these steps:
+To get started with the DLSO Data Science Academy, follow these steps:
 
 1. Visit the [DLSO Abeokuta Data Science Academy GitHub Page](https://github.com/dlbc-ds-academy/).
 
