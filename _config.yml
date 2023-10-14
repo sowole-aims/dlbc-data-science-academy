@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DLBC Data Science Academy
+title: DLSO Data Science Academy
 tagline: Data Science Academy for young minds!
-description: Course website developed for the DLBC Abeokuta Data Science Academy
-author: DLBC Abeokuta
+description: Course website developed for the DLSO Abeokuta Data Science Academy
+author: DLSO Abeokuta
 baseurl: '/dlbc-data-science-academy' # the subpath of your site, e.g. /blog
 url: 'https://sowole-aims.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
