@@ -2,7 +2,7 @@
 name: Teaching Assistance Needed
 role: Teaching Assistant
 email: me@email.com
-website: [#]
+website: (#)
 photo: samuel-min.jpg
 ---
 
