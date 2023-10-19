@@ -33,14 +33,6 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Virtual
-      - name: Self Learning Section
-        start: 2:30 AM
-        end: 3:30 PM
-        location: Online 
-      - name: Self Learning Section
-        start: 4:00 AM
-        end: 5:30 PM
-        location: Online   
   - name: Tuesday
     events:
       - name: Self Learning
@@ -55,14 +47,6 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Virtual
-      - name: Self Learning Section
-        start: 2:30 AM
-        end: 3:30 PM
-        location: Online 
-      - name: Self Learning Section
-        start: 4:00 AM
-        end: 5:30 PM
-        location: Online   
   - name: Wednesday
     events:
       - name: Self Learning
@@ -77,14 +61,6 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Virtual
-      - name: Self Learning Section
-        start: 2:30 AM
-        end: 3:30 PM
-        location: Online 
-      - name: Self Learning Section
-        start: 4:00 AM
-        end: 5:30 PM
-        location: Online   
   - name: Thursday
     events:
       - name: Self Learning
@@ -99,14 +75,6 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Virtual
-      - name: Self Learning Section
-        start: 2:30 AM
-        end: 3:30 PM
-        location: Online 
-      - name: Self Learning Section
-        start: 4:00 AM
-        end: 5:30 PM
-        location: Online   
   - name: Friday
     events:
       - name: Self Learning Section
@@ -121,14 +89,6 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Virtual
-      - name: Self Learning Section
-        start: 2:30 AM
-        end: 3:30 PM
-        location: Online 
-      - name: Self Learning Section
-        start: 4:00 AM
-        end: 5:30 PM
-        location: Online    
   - name: Saturday
     events:
       - name: Registration
