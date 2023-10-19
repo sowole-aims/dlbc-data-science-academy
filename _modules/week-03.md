@@ -2,11 +2,10 @@
 title: Data Visualization and Analysis with Power BI
 ---
 
-Nov 11
 
 Mod 1
 : **Introduction to Power BI**{: .label .label-purple }
-  : Welcome to the DLBC Data Science Academy's "Data Visualization and Analysis with Power BI" topic! In this module, we will introduce Power BI, its capabilities, and the modules we will cover in this topic.
+  : Welcome to "Data Visualization and Analysis with Power BI" topic! In this module, we will introduce Power BI, its capabilities, and the modules we will cover in this topic.
 
 Mod 2
 : **Getting Started with Power BI**{: .label .label-purple }

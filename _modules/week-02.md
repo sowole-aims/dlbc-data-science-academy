@@ -2,8 +2,6 @@
 title: Data Analytics with Excel
 ---
 
-Oct 28
-
 Mod 1
 : **Introduction to Data Analytics with Excel**{: .label .label-purple }
   : Welcome! In this module, we will introduce the fundamentals of data analytics using Microsoft Excel, its importance, and the topics we will cover in this topic.
