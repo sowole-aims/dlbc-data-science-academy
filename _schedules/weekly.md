@@ -99,8 +99,8 @@ schedule:
         start: 10:00 AM
         end: 1:00 PM
         location: Leme
-      - name: Office Hours
+      - name: Office Hour
         start: 1:30 PM
-        end: 2:00 PM
+        end: 2:30 PM
         location: Leme     
 ---
