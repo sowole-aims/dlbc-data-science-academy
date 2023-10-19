@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Our dedicated staff at the DLBC Data Science Academy are here to support your learning journey and provide you with the guidance and resources you need to succeed.
+Our dedicated Staff and Instructors at the DLSO Data Science Academy are here to support your learning journey and provide you with the guidance and resources you need to succeed.
 
 ## Instructors
 
