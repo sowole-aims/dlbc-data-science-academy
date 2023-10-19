@@ -21,68 +21,60 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Self Learning
+      - name: Lecture
         start: 9:30 AM
         end: 10:30 AM
-        location: Online
-      - name: Self Learning 
+        location: 150 Wheeler
+      - name: Section
         start: 11:30 AM
         end: 12:30 PM
-        location: Online
+        location: 310 Soda
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: Online
-        - name: Self Learning 
-        start: 2:00 AM
-        end: 5:30 PM
-        location: Online
+        location: 271 Soda
   - name: Tuesday
     events:
-      - name: Self Learning
+      - name: Lecture
         start: 9:30 AM
         end: 10:30 AM
-        location: Online
-      - name: Self Learning 
+        location: 150 Wheeler
+      - name: Section
         start: 11:30 AM
         end: 12:30 PM
-        location: Online
+        location: 310 Soda
+      - name: Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: 271 Soda
   - name: Wednesday
     events:
-      - name: Self Learning
+      - name: Lecture
         start: 9:30 AM
         end: 10:30 AM
-        location: Online
-      - name: Self Learning
+        location: 150 Wheeler
+      - name: Section
         start: 11:30 AM
         end: 12:30 PM
-        location: Online
+        location: 310 Soda
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: Online
-      - name: Self Learning
-        start: 2:30 PM
-        end: 5:30 PM
-        location: Online
+        location: 271 Soda
   - name: Thursday
     events:
-      - name: Self Learning
+      - name: Lecture
         start: 9:30 AM
         end: 10:30 AM
-        location: Online
-      - name: Self Learning
+        location: 150 Wheeler
+      - name: Section
         start: 11:30 AM
         end: 12:30 PM
-        location: Online
+        location: 310 Soda
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: Online
-      - name: Self Learning
-        start: 2:30 AM
-        end: 5:30 PM
-        location: Online
+        location: 271 Soda
   - name: Friday
     events:
       - name: Lecture
@@ -99,16 +91,16 @@ schedule:
         location: 271 Soda
   - name: Saturday
     events:
-      - name: Welcome and Registration
+      - name: Registration
         start: 9:30 AM
         end: 10:00 AM
-        location: Leme Abeokuta
-      - name: Onsite Training Section
+        location: Leme
+      - name: Section
         start: 10:00 AM
         end: 1:30 PM
-        location: Leme Abeokuta
+        location: Leme
       - name: Office Hours
         start: 1:30 PM
         end: 2:00 PM
-        location: Leme Abeokuta
+        location: Leme     
 ---
