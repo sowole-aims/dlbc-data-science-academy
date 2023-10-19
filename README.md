@@ -79,7 +79,7 @@ We understand that learning data science can be challenging, which is why we've 
 
 ## Contribute
 
-We welcome contributions from anyone interested in enhancing the DLBC Data Science Academy. If you have suggestions, want to contribute tutorials, support financially or create new projects, please contact us.
+We welcome contributions from anyone interested in enhancing the DLSO Data Science Academy. If you have suggestions, want to contribute tutorials, support financially or create new projects, please contact us.
 
 ## Contact
 
