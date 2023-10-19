@@ -21,34 +21,68 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
+      - name: Self Learning
         start: 9:30 AM
         end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+        location: Online
+      - name: Self Learning 
         start: 11:30 AM
         end: 12:30 PM
-        location: 310 Soda
+        location: Online
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: Online
+        - name: Self Learning 
+        start: 2:00 AM
+        end: 5:30 PM
+        location: Online
   - name: Tuesday
+    events:
+      - name: Self Learning
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Online
+      - name: Self Learning 
+        start: 11:30 AM
+        end: 12:30 PM
+        location: Online
   - name: Wednesday
     events:
-      - name: Lecture
+      - name: Self Learning
         start: 9:30 AM
         end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+        location: Online
+      - name: Self Learning
         start: 11:30 AM
         end: 12:30 PM
-        location: 310 Soda
+        location: Online
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: Online
+      - name: Self Learning
+        start: 2:30 PM
+        end: 5:30 PM
+        location: Online
   - name: Thursday
+    events:
+      - name: Self Learning
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Online
+      - name: Self Learning
+        start: 11:30 AM
+        end: 12:30 PM
+        location: Online
+      - name: Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: Online
+      - name: Self Learning
+        start: 2:30 AM
+        end: 5:30 PM
+        location: Online
   - name: Friday
     events:
       - name: Lecture
@@ -63,4 +97,18 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
+  - name: Saturday
+    events:
+      - name: Welcome and Registration
+        start: 9:30 AM
+        end: 10:00 AM
+        location: Leme Abeokuta
+      - name: Onsite Training Section
+        start: 10:00 AM
+        end: 1:30 PM
+        location: Leme Abeokuta
+      - name: Office Hours
+        start: 1:30 PM
+        end: 2:00 PM
+        location: Leme Abeokuta
 ---
