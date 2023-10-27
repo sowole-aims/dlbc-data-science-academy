@@ -2,7 +2,6 @@
 title: Assignment 2
 ---
 
-
 ## Python Data Structures
 
 ### Objective
