@@ -26,7 +26,7 @@ The DLSO Data Science Academy is a platform designed to empower young people in 
 
 ## Introduction
 
-In today's data-driven world, data science has become a critical skill for solving complex problems and making informed decisions. The DLBC Data Science Academy aims to bridge the gap between young individuals in our church community and the exciting world of data science.
+In today's data-driven world, data science has become a critical skill for solving complex problems and making informed decisions. The DLSO Data Science Academy aims to bridge the gap between young individuals in our church community and the exciting world of data science.
 
 ## Getting Started
 
@@ -44,6 +44,7 @@ To get started with the DLSO Data Science Academy, follow these steps:
 
 The academy offers a wide range of courses to cater to various skill levels and interests within the field of data science. Whether you're a beginner looking to get started or aiming to sharpen your skills, we have something for you. Some of our courses include:
 
+- Introduction to Python Programming Language
 - Introduction to Data Science and Artificial Intelligence
 - Data Analytics with Excel and Power BI
 - Data Analysis with Python
